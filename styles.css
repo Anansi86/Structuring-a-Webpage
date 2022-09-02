@@ -46,8 +46,8 @@ p, li {
 
 header {
     margin-bottom: 10px;
-    display:flex;
-    flex-flow: raw wrap;
+    display: flex;
+    flex-flow: row wrap;
 }
 
 body > * {
